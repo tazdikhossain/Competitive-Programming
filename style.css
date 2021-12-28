@@ -1,0 +1,17 @@
+body{
+    background-image: url(maxresdefault.jpg);
+    font-family: Arial;
+    text-align: left;
+}
+
+a{
+    
+    color:whitesmoke;
+    text-decoration: underline;
+
+}
+a:hover{
+    color: white;
+    text-decoration: none;
+
+}
